@@ -1,1 +1,4 @@
-# itp325
+# Submission page for ITP325
+
+USC username: hongalex
+
